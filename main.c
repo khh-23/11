@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-void main(void) {
-    int i = 4;
+int main(void) {
+    int i = 300;
 
     int *pi = &i;
     char *pc = (char*)&i;
